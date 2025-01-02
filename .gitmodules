@@ -1,0 +1,3 @@
+[submodule "FiniteStateMachine"]
+	path = FiniteStateMachine
+	url = https://github.com/cegea/finite-state-machine.git

@@ -6,5 +6,6 @@
 #endif
 
 typedef Migraine;
+typedef MigraineData;
 
 #endif

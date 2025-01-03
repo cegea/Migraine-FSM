@@ -8,4 +8,8 @@
 typedef Migraine;
 typedef MigraineData;
 
+EVENT_DECLARE(MGR_Stress, MigraineData)
+EVENT_DECLARE(MGR_FoodTrigger, MigraineData)
+EVENT_DECLARE(MGR_RelaxAndRest, MigraineData)
+
 #endif
